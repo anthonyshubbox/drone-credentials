@@ -1,0 +1,9 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "drone-credentials",
+  "compatibility_date": "2025-05-14",
+  "assets": {
+    "directory": "./",
+    "not_found_handling": "404-page"
+  }
+}
